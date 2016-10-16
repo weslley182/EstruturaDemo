@@ -84,3 +84,13 @@ D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\Microsoft.O
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\obj\Debug\EstruturaDemo.UI.MVC.csprojResolveAssemblyReference.cache
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\obj\Debug\EstruturaDemo.UI.MVC.dll
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\obj\Debug\EstruturaDemo.UI.MVC.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\Microsoft.Practices.ServiceLocation.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\Microsoft.Practices.ServiceLocation.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\EstruturaDemo.infra.IoC.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\Ninject.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\EstruturaDemo.Infra.Repository.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\CommonServiceLocator.NinjectAdapter.Unofficial.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\EstruturaDemo.infra.IoC.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\Ninject.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.UI.MVC\bin\EstruturaDemo.Infra.Repository.pdb

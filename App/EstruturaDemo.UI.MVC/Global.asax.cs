@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EstruturaDemo.infra.IoC;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -16,6 +17,9 @@ namespace EstruturaDemo.UI.MVC
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            IoC.Init();
+            DependencyResolver.SetResolver(new IoCDependencyResolver());
         }
     }
 }

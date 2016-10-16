@@ -268,10 +268,11 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Product\Index.cshtml" />
+    <Content Include="Views\Product\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -289,6 +290,10 @@
     <ProjectReference Include="..\EstruturaDemo.Domain\EstruturaDemo.Domain.csproj">
       <Project>{1f645f75-7752-4782-8503-099881b29e53}</Project>
       <Name>EstruturaDemo.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EstruturaDemo.infra.IoC\EstruturaDemo.infra.IoC.csproj">
+      <Project>{A763F6D8-F548-498D-BC79-782B7637AB82}</Project>
+      <Name>EstruturaDemo.infra.IoC</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

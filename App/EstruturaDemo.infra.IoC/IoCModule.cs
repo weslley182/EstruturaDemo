@@ -11,6 +11,7 @@ namespace EstruturaDemo.infra.IoC
         {
             Bind(typeof(IRepositoryBase<>)).To(typeof(RepositoryBase<>));
             Bind<IProductRepository>().To<ProductRepository>();
+            Bind<IUnitOfWork>().To<UnitOfWork>();
             Bind<ContextManager>().ToSelf();
         }
     }

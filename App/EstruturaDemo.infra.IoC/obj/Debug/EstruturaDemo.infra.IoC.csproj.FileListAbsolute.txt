@@ -15,3 +15,16 @@ D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\Ni
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\EntityFramework.xml
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\obj\Debug\EstruturaDemo.infra.IoC.dll
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\obj\Debug\EstruturaDemo.infra.IoC.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.Helpers.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.Mvc.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.Razor.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.WebPages.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.Helpers.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.Mvc.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.Razor.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.WebPages.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.infra.IoC\bin\Debug\System.Web.WebPages.Razor.xml
