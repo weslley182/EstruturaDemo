@@ -1,5 +1,6 @@
 ﻿using EstruturaDemo.Domain.Interfaces;
 using EstruturaDemo.Infra.Repository.EF;
+using Microsoft.Practices.ServiceLocation;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -11,11 +12,12 @@ namespace EstruturaDemo.Infra.Repository
 {
     public class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity : class
     {
-        protected EstruturaContext Context { get; private set; }
+        protected DbContext Context { get; private set; }
 
         public RepositoryBase()
         {
-            Context = new EstruturaContext();
+            var contextManager = ServiceLocator.Current.GetInstance<ContextManager>();
+            Context = contextManager.Context;
         }
 
         public void Add(TEntity obj)

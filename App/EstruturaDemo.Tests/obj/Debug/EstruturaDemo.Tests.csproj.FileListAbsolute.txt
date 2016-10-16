@@ -12,3 +12,6 @@ D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\Entity
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\obj\Debug\EstruturaDemo.Tests.csprojResolveAssemblyReference.cache
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\obj\Debug\EstruturaDemo.Tests.dll
 D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\obj\Debug\EstruturaDemo.Tests.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml

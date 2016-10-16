@@ -1,9 +1,5 @@
 ﻿using EstruturaDemo.Domain.Interfaces;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using EstruturaDemo.Domain.Entities;
 
 namespace EstruturaDemo.Infra.Repository
@@ -12,7 +8,8 @@ namespace EstruturaDemo.Infra.Repository
     {
         public IEnumerable<Product> GetByPrice(decimal price)
         {
-            return Context.Products.Where(p => p.Price == price);
+            //return Context.Products.Where(p => p.Price == price);
+            return null;
         }
     }
 }
