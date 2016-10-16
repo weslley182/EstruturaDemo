@@ -1,0 +1,5 @@
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Domain\bin\Debug\EstruturaDemo.Domain.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Domain\bin\Debug\EstruturaDemo.Domain.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Domain\obj\Debug\EstruturaDemo.Domain.csprojResolveAssemblyReference.cache
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Domain\obj\Debug\EstruturaDemo.Domain.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Domain\obj\Debug\EstruturaDemo.Domain.pdb

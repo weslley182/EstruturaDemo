@@ -1,0 +1,14 @@
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EstruturaDemo.Infra.Repository.dll.config
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EstruturaDemo.Infra.Repository.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EstruturaDemo.Infra.Repository.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EntityFramework.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EstruturaDemo.Domain.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EstruturaDemo.Domain.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EntityFramework.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\obj\Debug\EstruturaDemo.Infra.Repository.csprojResolveAssemblyReference.cache
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\obj\Debug\EstruturaDemo.Infra.Repository.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\obj\Debug\EstruturaDemo.Infra.Repository.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\App_Data\EstruturaDemo.mdf
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Infra.Repository\bin\Debug\App_Data\EstruturaDemo_log.ldf

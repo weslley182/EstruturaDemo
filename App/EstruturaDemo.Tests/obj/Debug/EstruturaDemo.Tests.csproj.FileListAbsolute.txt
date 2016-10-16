@@ -1,0 +1,14 @@
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Tests.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Tests.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Application.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Domain.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Infra.Repository.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EntityFramework.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Application.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Domain.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EstruturaDemo.Infra.Repository.pdb
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\bin\Debug\EntityFramework.xml
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\obj\Debug\EstruturaDemo.Tests.csprojResolveAssemblyReference.cache
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\obj\Debug\EstruturaDemo.Tests.dll
+D:\BACKUP\Projetos\DOTNET\EstruturaDemo\App\EstruturaDemo.Tests\obj\Debug\EstruturaDemo.Tests.pdb
